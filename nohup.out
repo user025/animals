@@ -1,0 +1,66 @@
+[I 21:14:00.246 NotebookApp] Serving notebooks from local directory: /Users/huang_anli/kaggle/animal
+[I 21:14:00.246 NotebookApp] 0 active kernels 
+[I 21:14:00.246 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
+[I 21:14:00.246 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:10:42.537 NotebookApp] Creating new notebook in 
+[I 23:10:43.253 NotebookApp] Kernel started: 30cb5ef7-db1e-4413-bfb3-85a1380b2d5a
+[I 23:12:43.182 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:14:43.178 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:16:43.178 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:18:44.337 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:20:43.181 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:22:43.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:26:43.177 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:28:43.179 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:40:43.179 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:42:45.371 NotebookApp] Saving file at /explore features.ipynb
+[I 23:48:43.177 NotebookApp] Saving file at /explore features.ipynb
+[I 00:36:41.137 NotebookApp] Saving file at /explore features.ipynb
+[I 00:40:41.136 NotebookApp] Saving file at /explore features.ipynb
+[I 00:42:41.133 NotebookApp] Saving file at /explore features.ipynb
+[I 00:44:41.134 NotebookApp] Saving file at /explore features.ipynb
+[I 00:46:41.134 NotebookApp] Saving file at /explore features.ipynb
+[I 00:54:41.138 NotebookApp] Saving file at /explore features.ipynb
+[I 00:56:41.134 NotebookApp] Saving file at /explore features.ipynb
+[I 00:58:41.135 NotebookApp] Saving file at /explore features.ipynb
+[I 01:06:41.136 NotebookApp] Saving file at /explore features.ipynb
+[I 01:08:41.137 NotebookApp] Saving file at /explore features.ipynb
+[I 01:10:41.132 NotebookApp] Saving file at /explore features.ipynb
+[I 01:16:41.137 NotebookApp] Saving file at /explore features.ipynb
+[I 01:18:41.137 NotebookApp] Saving file at /explore features.ipynb
+[I 01:26:41.138 NotebookApp] Saving file at /explore features.ipynb
+[I 01:28:43.511 NotebookApp] Saving file at /explore features.ipynb
+[I 01:30:41.134 NotebookApp] Saving file at /explore features.ipynb
+[I 01:32:41.965 NotebookApp] Saving file at /explore features.ipynb
+[I 03:20:20.792 NotebookApp] Saving file at /explore features.ipynb
+[I 14:23:02.137 NotebookApp] Saving file at /explore features.ipynb
+[I 14:29:02.129 NotebookApp] Saving file at /explore features.ipynb
+[I 16:04:22.937 NotebookApp] Saving file at /explore features.ipynb
+[I 16:06:22.936 NotebookApp] Saving file at /explore features.ipynb
+[I 16:08:22.935 NotebookApp] Saving file at /explore features.ipynb
+[C 16:15:38.669 NotebookApp] received signal 15, stopping
+[I 16:15:38.670 NotebookApp] Shutting down kernels
+[I 16:15:39.296 NotebookApp] Kernel shutdown: 30cb5ef7-db1e-4413-bfb3-85a1380b2d5a
+[I 02:09:31.913 NotebookApp] Serving notebooks from local directory: /Users/huang_anli/kaggle/animal
+[I 02:09:31.913 NotebookApp] 0 active kernels 
+[I 02:09:31.913 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
+[I 02:09:31.913 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 02:09:36.094 NotebookApp] Kernel started: 3c76a515-e06d-4ea4-a0fe-ba1c5ccc730d
+[I 02:11:50.813 NotebookApp] Saving file at /explore features.ipynb
+[I 02:41:07.557 NotebookApp] Saving file at /explore features.ipynb
+[I 02:43:08.130 NotebookApp] Saving file at /explore features.ipynb
+[I 02:45:07.553 NotebookApp] Saving file at /explore features.ipynb
+[I 02:47:07.553 NotebookApp] Saving file at /explore features.ipynb
+[I 02:49:07.558 NotebookApp] Saving file at /explore features.ipynb
+[I 02:51:07.555 NotebookApp] Saving file at /explore features.ipynb
+[I 02:53:07.558 NotebookApp] Saving file at /explore features.ipynb
+[I 02:55:10.729 NotebookApp] Saving file at /explore features.ipynb
+[I 02:57:27.157 NotebookApp] Creating new notebook in 
+[I 02:57:27.676 NotebookApp] Kernel started: b2d4b785-7045-427b-9fce-a754d40d9a56
+[I 02:59:07.559 NotebookApp] Saving file at /explore features.ipynb
+[I 02:59:27.761 NotebookApp] Saving file at /naive bayes.ipynb
+[I 03:00:29.296 NotebookApp] Saving file at /explore features.ipynb
+[I 23:30:45.091 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 02:38:36.289 NotebookApp] Kernel shutdown: b2d4b785-7045-427b-9fce-a754d40d9a56
+[I 02:40:37.559 NotebookApp] Saving file at /explore features.ipynb
+[I 02:41:49.345 NotebookApp] Saving file at /explore features.ipynb
